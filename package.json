@@ -1,0 +1,11 @@
+{
+  "name": "geni-act-sockeye",
+  "private": true,
+  "dependencies": {
+    "@rails/webpacker": "^3.3.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^2.0.11",
+    "webpack-dev-server": "^2.11.1"
+  }
+}
